@@ -1,25 +1,21 @@
-# README
+# ToDo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ToDo is a list/productivity application that allows its users to compile lists of tasks that require completion with the ability to mark them completed when finished. The application was built using JavaScript.
 
-Things you may want to cover:
+![image](/app/assets/images/ToDoPic.png)
 
-* Ruby version
+[Visit ToDo here](https://jerstodo.herokuapp.com/)
 
-* System dependencies
+---
 
-* Configuration
 
-* Database creation
+## Built with:
 
-* Database initialization
+* JavaScript
+* AJAX
+* DOM 
+* RESTful API
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# JersToDo
+Please see list of [contributors](https://github.com/jer223/grammable/graphs/contributors).
